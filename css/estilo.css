@@ -54,7 +54,7 @@ table,tr,td{
 }
 /*Divs*/
 div#top{
-	font-family:fuentes-amoria;
+	font-family:fuentes-naila;
 	width:100%;
 	height:75px;
 	/*background-image:linear-gradient(#fcbafa,#ffffff);*/
@@ -209,8 +209,8 @@ div#ppag{
 }
 /*fuentes-tipografias*/
 @font-face{
-	font-family:fuentes-amoria;
-	src: url(../fuentes/amoria.otf);
+	font-family:fuentes-naila;
+	src: url(../fuentes/naila.otf);
 }
 @font-face{
 	font-family:fuentes-komikax_;
